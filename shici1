@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>""诗词</title>
+        <h1></h1>
+    </head>
+    <body>
+      <style>
+        .red-text {
+    color: red;
+  }
+      </style>
+        <div class="text" style="text-align:center;">
+      <a href="https://baike.sogou.com/v4878.htm?fromTitle=%E8%8B%8F%E8%BD%BC"target="blank"><img src="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20160428162842-2092771087.jpg/800"width="200" height="200"></a>
+        </div>
+     <div class="text" style="text-align:center;">
+      <strong class="red-text">水调歌头·明月几时有</strong>
+        <br>明月几时有？</br>
+        <br>把酒问青天。</br>
+        <br>不知天上宫阙，</br>
+        <br>今夕是何年。</br>
+        <br>我欲乘风归去，</br>
+        <br>又恐琼楼玉宇，</br>
+        <br>高处不胜寒。</br>
+        <br>转朱阁，</br>
+        <br>低绮户，</br>
+        <br>照无眠。</br>
+        <br>不应有恨，</br>
+        <br>何事长向别时圆？</br>
+        <br>人有悲欢离合，</br>
+        <br>月有阴晴圆缺。</br>
+        <br>此事古难全。</br>
+        <br>但愿人长久，</br>
+        <br>千里共婵娟。</br>
+     </div>
+
+</body>
+</html>
